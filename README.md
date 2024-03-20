@@ -41,7 +41,7 @@ python hunter-spider.py --apikey YOUR_API_KEY --txt units.txt
 - 如你在使用本工具的过程中存在任何非法行为，你需自行承担相应后果，我将不承担任何法律及连带责任。
 
 # 捐赠支持
- 如果这个项目对你有帮助，你可以给作者发烟 [点我](image/thanku.png)
+ 如果这个项目对你有帮助，你可以给作者发烟 [点我](thanku.png)
 
 # 参考链接
 https://github.com/akkuman/HunterApi
