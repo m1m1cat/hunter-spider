@@ -30,7 +30,7 @@ python hunter-spider.py --apikey YOUR_API_KEY --txt units.txt
 - `--start_page`: 爬取开始页数，默认为 1。
 - `--end_page`: 爬取结束页数，默认为爬取全部数据。
 - `--page_size`: 每页爬取数量，最大为 100，默认为 100。
-- `--interval`: 每次请求 API 之间的时间间隔，默认为 3.0 秒。
+- `--interval`: 每次请求 API 之间的时间间隔，默认为 3 秒。
 
 ## 注意事项
 
