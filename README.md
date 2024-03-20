@@ -18,7 +18,7 @@ rule = f'icp.web_name="{unit.strip()}"' #设置查询语句
 在命令行中执行以下命令：
 
 ```bash
-python hunter_crawler.py --apikey YOUR_API_KEY --txt units.txt
+python hunter-spider.py --apikey YOUR_API_KEY --txt units.txt
 ```
 
 确保将 `YOUR_API_KEY` 替换为您的 Hunter API Key，并将 `units.txt` 替换为您准备的单位名称文件路径。
